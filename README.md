@@ -4,3 +4,5 @@
 ### * master
 ### * develop
 ### * feature
+
+foi aberto um Pull request onde o mesmo foi mergeado.
